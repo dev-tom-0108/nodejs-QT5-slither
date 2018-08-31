@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>images/back-pattern.jpg</file>
+        <file>UI/GameView.qml</file>
+        <file>UI/Lobby.qml</file>
+        <file>images/skin1.png</file>
+        <file>images/arrow.png</file>
+        <file>images/head1.png</file>
+        <file>UI/Login.qml</file>
+        <file>UI/NoConnection.qml</file>
+        <file>UI/qmldir</file>
+        <file>UI/Global.qml</file>
+        <file>UI/Sensor.qml</file>
+        <file>UI/Algebra.qml</file>
+        <file>UI/Logic.qml</file>
+        <file>UI/Misc.js</file>
+        <file>images/beaker-bottle.png</file>
+        <file>images/beaker-liquid.png</file>
+        <file>images/back.png</file>
+        <file>images/mainBack.png</file>
+        <file>UI/BotAI.js</file>
+    </qresource>
+</RCC>
